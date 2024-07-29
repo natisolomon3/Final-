@@ -59,7 +59,9 @@ When interpreting these visualizations, it's important to consider the differenc
 
 These visualizations are crucial for drawing meaningful insights from the data, making it easier to understand and communicate LeBron James's performance trends throughout his career. They provide a comprehensive view of how his performance adapts to high-stakes situations, offering valuable information for sports analysts, commentators, and fans. Furthermore, these insights can inform discussions on his legacy, strategic decisions in sports betting, and understanding the dynamics of performance in regular versus high-pressure scenarios.
 
+![RegSzn PNG](https://github.com/user-attachments/assets/5c46ae47-8124-4f87-ad99-a6c0f5749385)
 
+![Playoff PNG](https://github.com/user-attachments/assets/7c06ec84-d7b2-43ce-8d44-29bbf23efb0e)
 
 ## Storytelling:
 
