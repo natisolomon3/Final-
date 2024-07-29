@@ -62,6 +62,8 @@ These visualizations are crucial for drawing meaningful insights from the data, 
 ![RegSzn PNG](https://github.com/user-attachments/assets/5c46ae47-8124-4f87-ad99-a6c0f5749385)
 
 ![Playoff PNG](https://github.com/user-attachments/assets/7c06ec84-d7b2-43ce-8d44-29bbf23efb0e)
+![RegMetrics PNG](https://github.com/user-attachments/assets/3848696e-2216-4ad3-9419-923a1143b4e4)
+![PlayOffMetricsPNG](https://github.com/user-attachments/assets/b85cc10b-c22f-4a6a-b701-3f6042b7e891)
 
 ## Storytelling:
 
