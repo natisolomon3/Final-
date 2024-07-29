@@ -10,6 +10,8 @@ We obtained the data from Basketball Reference, specifically from LeBron James's
 
 The data is in a CSV format, available as both regular season and playoff statistics. It includes various performance metrics such as points, rebounds, assists, and more.
 
+While Basketball Reference is a highly reputable and widely used source for basketball statistics, it is important to recognize that relying on a single data source may introduce biases or limitations. However, the credibility of Basketball Reference is reinforced by its recognition and citation by authoritative sports entities such as ESPN. Unlike other sources on the internet, which may be influenced by subjective opinions of LeBron superfans or detractors, Basketball Reference provides objective and verifiable data. To enhance the robustness of our analysis, cross-referencing with additional credible sources or databases could further validate our findings and provide a more comprehensive perspective on LeBron James's performance. 
+
 Pros:
 Easily accessible and publicly available.
 Consistently updated with new performance data every season.
